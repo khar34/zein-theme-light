@@ -1,0 +1,22 @@
+{
+  "name": "zein-theme-light",
+  "displayName": "zein-theme-light",
+  "description": "Light theme for Zein IDE",
+  "version": "0.0.1",
+  "publisher": "khar34",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Zein (light)",
+        "uiTheme": "vs",
+        "path": "./themes/Zein (light)-color-theme.json"
+      }
+    ]
+  }
+}
